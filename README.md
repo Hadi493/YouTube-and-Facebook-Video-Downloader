@@ -9,8 +9,8 @@ This is a complete package for downloading YouTube and Facebook videos. Just fet
 - Download videos with exact name and serials (for playlists)
 - New download folder 
 
-## Installation and Usage
-# edit directory location
+# Installation and Usage
+[edit directory location]
 
 To clone the repository, use the following command: 
 
