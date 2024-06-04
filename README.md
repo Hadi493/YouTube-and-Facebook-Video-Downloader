@@ -14,7 +14,7 @@ edit directory location
 To clone the repository, use the following command: 
 
 ```shell
-git clone 
+git clone https://github.com/Hadi493/YouTube-and-Facebook-Video-Downloader.git
 ```
 
 Open the terminal or shell in the folder location and use the package manager pip to install the required packages:
